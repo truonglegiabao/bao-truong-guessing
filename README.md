@@ -2,8 +2,9 @@
 ## Project: Guessing game
 Welcome to the program Guessing made by Bao Truong
 
-- The makefile was run at 16-01-2022:19:08:18
+- Date which the makefile was run: 16-01-2022
 
-- There were 35 lines in guessinggame.sh
+- Time which the makefile was run: 19:19:27
 
+- Number of lines in guessinggame.sh:  35
 ## Enjoy the game and have fun!!!
