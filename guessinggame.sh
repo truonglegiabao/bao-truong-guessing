@@ -6,7 +6,7 @@ echo "Let's start"
 
 # Function calculting how many files are in the current directory (including the guessing game)
 function get_file {
- local number=$(ls -l | wc -l)
+ local number=$(ls -l | wc -l)-1
  echo $number
 }
 
